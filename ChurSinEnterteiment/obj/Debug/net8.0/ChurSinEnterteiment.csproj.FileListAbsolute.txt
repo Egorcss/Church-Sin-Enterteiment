@@ -1,0 +1,14 @@
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\bin\Debug\net8.0\ChurSinEnterteiment.exe
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\bin\Debug\net8.0\ChurSinEnterteiment.deps.json
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\bin\Debug\net8.0\ChurSinEnterteiment.runtimeconfig.json
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\bin\Debug\net8.0\ChurSinEnterteiment.dll
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\bin\Debug\net8.0\ChurSinEnterteiment.pdb
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ChurSinEnterteiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ChurSinEnterteiment.AssemblyInfoInputs.cache
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ChurSinEnterteiment.AssemblyInfo.cs
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ChurSinEnterteiment.csproj.CoreCompileInputs.cache
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ChurSinEnterteiment.dll
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\refint\ChurSinEnterteiment.dll
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ChurSinEnterteiment.pdb
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ChurSinEnterteiment.genruntimeconfig.cache
+C:\Users\Default.DESKTOP-SSITUJR\Desktop\PROJ-VUZ\ChurSinEnterteiment\ChurSinEnterteiment\obj\Debug\net8.0\ref\ChurSinEnterteiment.dll
